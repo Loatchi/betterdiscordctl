@@ -10,6 +10,7 @@ A manager for BetterDiscord on Linux.
 - Ubuntu: https://launchpad.net/~chronobserver/+archive/ubuntu/betterdiscordctl
 - Fedora: https://copr.fedorainfracloud.org/coprs/observeroftime/betterdiscordctl
 - NixOS: https://search.nixos.org/packages?channel=unstable&query=betterdiscordctl&show=betterdiscordctl
+- Gentoo: https://github.com/Loatchi/gentoo-overlay
 
 ### Manual
 
